@@ -1,0 +1,6 @@
+{
+  "name": "BreatheWise NCR",
+  "description": "Clean-air daily companion for Delhi NCR households with live locality AQI guidance, personalized breath plans, indoor air-care checklists, smart habit swaps, regional air map, and multilingual AI advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
